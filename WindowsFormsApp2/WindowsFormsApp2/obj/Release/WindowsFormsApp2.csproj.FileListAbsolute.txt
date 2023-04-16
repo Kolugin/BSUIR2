@@ -1,0 +1,157 @@
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ProjectDB.mdb
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\EnvDTE.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\stdole.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.MSXML.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form10.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form2.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form3.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form4.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form5.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form6.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form7.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form8.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form9.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Professional\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ProjectDB.mdb
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\EnvDTE.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\stdole.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Microsoft.MSXML.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form10.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form2.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form3.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form4.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form5.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form6.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form7.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form8.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form9.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Professional\Desktop\КУРСАЧ 2022\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb

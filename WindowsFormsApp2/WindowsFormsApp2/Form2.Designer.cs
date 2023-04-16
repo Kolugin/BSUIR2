@@ -28,9 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.projectsBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.projectDBDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.projectDBDataSet = new WindowsFormsApp2.ProjectDBDataSet();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -42,6 +46,12 @@
             this.label6 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.projectsBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.projectsTableAdapter = new WindowsFormsApp2.ProjectDBDataSetTableAdapters.ProjectsTableAdapter();
+            ((System.ComponentModel.ISupportInitialize)(this.projectsBindingSource1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.projectDBDataSetBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.projectDBDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.projectsBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // textBox1
@@ -66,8 +76,25 @@
             this.comboBox1.Size = new System.Drawing.Size(235, 21);
             this.comboBox1.TabIndex = 2;
             // 
+            // projectsBindingSource1
+            // 
+            this.projectsBindingSource1.DataMember = "Projects";
+            this.projectsBindingSource1.DataSource = this.projectDBDataSetBindingSource;
+            // 
+            // projectDBDataSetBindingSource
+            // 
+            this.projectDBDataSetBindingSource.DataSource = this.projectDBDataSet;
+            this.projectDBDataSetBindingSource.Position = 0;
+            // 
+            // projectDBDataSet
+            // 
+            this.projectDBDataSet.DataSetName = "ProjectDBDataSet";
+            this.projectDBDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // dateTimePicker1
             // 
+            this.dateTimePicker1.CustomFormat = "";
+            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dateTimePicker1.Location = new System.Drawing.Point(34, 156);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(235, 20);
@@ -75,6 +102,7 @@
             // 
             // dateTimePicker2
             // 
+            this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dateTimePicker2.Location = new System.Drawing.Point(34, 195);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(235, 20);
@@ -128,9 +156,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(31, 179);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(138, 13);
+            this.label5.Size = new System.Drawing.Size(141, 13);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Выберите дату окончания";
+            this.label5.Text = "Выберите Дату окончания";
             // 
             // label6
             // 
@@ -161,6 +189,15 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // projectsBindingSource
+            // 
+            this.projectsBindingSource.DataMember = "Projects";
+            this.projectsBindingSource.DataSource = this.projectDBDataSet;
+            // 
+            // projectsTableAdapter
+            // 
+            this.projectsTableAdapter.ClearBeforeFill = true;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -184,6 +221,10 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Добавление проекта";
             this.Load += new System.EventHandler(this.Form2_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.projectsBindingSource1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.projectDBDataSetBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.projectDBDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.projectsBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -205,5 +246,10 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.BindingSource projectDBDataSetBindingSource;
+        private ProjectDBDataSet projectDBDataSet;
+        private System.Windows.Forms.BindingSource projectsBindingSource;
+        private ProjectDBDataSetTableAdapters.ProjectsTableAdapter projectsTableAdapter;
+        private System.Windows.Forms.BindingSource projectsBindingSource1;
     }
 }

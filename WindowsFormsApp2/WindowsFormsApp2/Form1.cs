@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Data.OleDb;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp2
@@ -37,6 +32,7 @@ namespace WindowsFormsApp2
                 catch(Exception e)
                 {
                     MessageBox.Show("Ошибка при подключении к БД. Обратитесь в поддержку" + Convert.ToString(e), "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    this.Close();
                 }
             }
             dbCon.Close();
@@ -83,8 +79,8 @@ namespace WindowsFormsApp2
             {
                 string s1 = textBox1.Text;
                 string s2 = textBox2.Text;
-                string q = "SELECT COUNT(*) FROM Users WHERE (Login = \"" + s1 + "\" AND Password = \"" + s2 + "\")";
-                string q2 = "SELECT Type_Access FROM Users WHERE (Login = \"" + s1 + "\" AND Password = \"" + s2 + "\")";
+                string q = "SELECT COUNT(*) FROM Users WHERE (Log = \"" + s1 + "\" AND Pass = \"" + s2 + "\")";
+                string q2 = "SELECT Type_Access FROM Users WHERE (Log = \"" + s1 + "\" AND Pass = \"" + s2 + "\")";
                 if (textBox1.Text != textBox2.Text && (textBox1.ForeColor == Color.Black && textBox2.ForeColor == Color.Black))
                 {
                     try
@@ -113,6 +109,8 @@ namespace WindowsFormsApp2
                                     пользователиToolStripMenuItem.Enabled = true;
                                     новыйПользовательToolStripMenuItem.Visible = true;
                                     новыйПользовательToolStripMenuItem.Enabled = true;
+                                    удалитьToolStripMenuItem.Visible = true;
+                                    удалитьToolStripMenuItem.Enabled = true;
                                     return;
                                 }
                                 if (res2 == "USER")
@@ -126,11 +124,14 @@ namespace WindowsFormsApp2
                                     пользователиToolStripMenuItem.Enabled = false;
                                     новыйПользовательToolStripMenuItem.Visible = false;
                                     новыйПользовательToolStripMenuItem.Enabled = false;
+                                    удалитьToolStripMenuItem.Visible = false;
+                                    удалитьToolStripMenuItem.Enabled = false;
                                 }
                             }
                             else
                             {
                                 MessageBox.Show("Логин и Пароль введены неверно!", "Информация", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                NPEnter++;
                                 textBox1.Text = "";
                                 textBox2.Text = "";
                                 if (textBox1.Text == "")
@@ -146,9 +147,10 @@ namespace WindowsFormsApp2
                         }
                         dbCon.Close();
                     }
-                    catch
+                    catch (Exception g)
                     {
-                        MessageBox.Show("Ошибка соединения с БД!", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        MessageBox.Show("Ошибка при подключении к БД. Обратитесь в поддержку" + Convert.ToString(g), "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        this.Close();
                     }
                 }
                 if (textBox1.Text == textBox2.Text && (textBox1.ForeColor == Color.Black && textBox2.ForeColor == Color.Black))
@@ -194,30 +196,53 @@ namespace WindowsFormsApp2
         {
            a = @"SELECT * FROM Budjet";
            LoadDB();
+            dataGridView1.Columns[0].HeaderText = "ID Проекта";
+            dataGridView1.Columns[1].HeaderText = "Сумма Бюджета";
+            dataGridView1.Columns[2].HeaderText = "Тип Бюджета";
+            dataGridView1.Columns[3].HeaderText = "Дата формирования";
+            dataGridView1.Columns[4].HeaderText = "№ Документа";
+            dataGridView1.Columns[5].HeaderText = "Описание Бюджета";
         }
 
         private void проектыToolStripMenuItem_Click(object sender, EventArgs e)//отобразить список проектов
         {
             a = @"SELECT * FROM Projects";
             LoadDB();
+            dataGridView1.Columns[0].HeaderText = "ID Проекта";
+            dataGridView1.Columns[1].HeaderText = "Название Проекта";
+            dataGridView1.Columns[2].HeaderText = "Тип Проекта";
+            dataGridView1.Columns[3].HeaderText = "Дата начала";
+            dataGridView1.Columns[4].HeaderText = "Дата окончания";
+            dataGridView1.Columns[5].HeaderText = "Описание Проекта";
         }
 
         private void пользователиToolStripMenuItem_Click(object sender, EventArgs e)//отобразить список пользователей
         {
             a = @"SELECT * FROM Users";
             LoadDB();
+            dataGridView1.Columns[0].HeaderText = "Логин";
+            dataGridView1.Columns[1].HeaderText = "Пароль";
+            dataGridView1.Columns[2].HeaderText = "Тип доступа";
         }
 
         private void рабочиеToolStripMenuItem_Click(object sender, EventArgs e)//отобразить список рабочих
         {
             a = @"SELECT * FROM Worker";
             LoadDB();
+            dataGridView1.Columns[0].HeaderText = "ID Рабочего";
+            dataGridView1.Columns[1].HeaderText = "ФИО Рабочего";
+            dataGridView1.Columns[2].HeaderText = "Профессия Рабочего";
         }
 
         private void работыToolStripMenuItem_Click(object sender, EventArgs e) //отобразить список работ
         {
             a = @"SELECT * FROM Jobs";
             LoadDB();
+            dataGridView1.Columns[0].HeaderText = "ID Проекта";
+            dataGridView1.Columns[1].HeaderText = "Имя Работы";
+            dataGridView1.Columns[2].HeaderText = "Время в часах";
+            dataGridView1.Columns[3].HeaderText = "Стоимость 1 часа";
+            dataGridView1.Columns[4].HeaderText = "ID Рабочего";
         }
         //-----------------------------------------------------------------------------------------------------------
         private void новыйПроектToolStripMenuItem_Click(object sender, EventArgs e)
@@ -250,10 +275,16 @@ namespace WindowsFormsApp2
             form6.Show();
         }
 
+        private void удалитьToolStripMenuItem_Click(object sender, EventArgs e) // Удалить
+        {
+            Form7 form7 = new Form7();
+            form7.Show();
+        }
+
         private void новуюСтатьюБюджетаПроектаToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //Form7 form7 = new Form7();
-            //form7.Show();
+            Form8 form8 = new Form8();
+            form8.Show();
         }
 
         private void сменаПользователяToolStripMenuItem_Click(object sender, EventArgs e)
@@ -276,7 +307,33 @@ namespace WindowsFormsApp2
 
         private void посчитатьБюджетToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //Form10 form10 = new Form10();
+            //form10.Show();
+        }
 
+        private void информациюПоПроектуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form9 form9 = new Form9();
+            form9.Show();
+        }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox1.ForeColor = Color.Black;
+        }
+
+        private void textBox2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "";
+            textBox2.ForeColor = Color.Black;
+            textBox2.UseSystemPasswordChar = true;
+        }
+
+        private void расчетToolStripMenuItem_Click(object sender, EventArgs e) // расчет
+        {
+            Form10 form10 = new Form10();
+            form10.Show();
         }
     }
 }
